@@ -1,0 +1,9 @@
+.jumbotron {
+    width: 100vh;
+    height: 80vh;
+    text-align: center;
+    margin: 20px auto ;
+}
+.btn , label{
+    margin: 15px;
+}
